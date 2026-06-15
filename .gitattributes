@@ -1,0 +1,2 @@
+/notebooks/conv/custom_model/checkpoints/** filter=lfs diff=lfs merge=lfs -text
+/notebooks/conv/resnet152/checkpoints/** filter=lfs diff=lfs merge=lfs -text
